@@ -1,2 +1,2 @@
-![next-js.arakaki.app](https://next-js.arakaki.app)
+[next-js.arakaki.app](https://next-js.arakaki.app)
 
